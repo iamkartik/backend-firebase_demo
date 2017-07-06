@@ -1,0 +1,11 @@
+{
+    "name": "firebase-test",
+    "version": "1.0.0",
+    "license": "MIT",
+    "description": "this is a project to test firebase functions",
+    "dependencies": {
+        "firebase-admin": "^5.0.0",
+        "firebase-functions": "^0.5.8"
+    },
+    "author": "iamkartik"
+}
